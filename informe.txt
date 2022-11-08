@@ -1,1 +1,5 @@
 hoy realizaremos la ultima practica de git para continuar con python
+lo primero que hicimos fue crear una carpeta en el escritorio llamada ultima practica git,
+abrimos visual y creamos dos documentos de texto, nos fuiamos a git e inicializamos el repositorio
+adicionamos los dos archivos que creamos en visual,agregamos un texto a cada archivo, vimos el estado
+del repositorio y creamos un commit
